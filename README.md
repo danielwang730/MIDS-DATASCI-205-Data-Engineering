@@ -21,6 +21,6 @@ Built an end-to-end ETL pipeline to ingest, validate, and clean third-party sale
 ---
 
 ## Project 3: Using Graph Algorithms to Analyze S&P 500 Correlation Networks  
-This project explores how graph database techniques and algorithms (e.g., community detection, centrality) can be used to analyze relationships between S&P 500 stocks. Emphasis is placed on business applications where relational databases are insufficient, and tools like MongoDB and Redis are leveraged for flexible data representation and real-time access.
+This project explores how graph database techniques and algorithms (e.g., community detection, centrality) can be used to analyze relationships between S&P 500 stocks. Emphasis is placed on business applications where relational databases are insufficient, and tools like Neo4j, MongoDB, and Redis are leveraged for graph analyses, flexible data representation, and real-time access.
 
 [View Project 3]()
