@@ -23,4 +23,4 @@ Built an end-to-end ETL pipeline to ingest, validate, and clean third-party sale
 ## Project 3: Using Graph Algorithms to Analyze S&P 500 Correlation Networks  
 This project explores how graph database techniques and algorithms (e.g., community detection, centrality) can be used to analyze relationships between S&P 500 stocks. Emphasis is placed on business applications where relational databases are insufficient, and tools like Neo4j, MongoDB, and Redis are leveraged for graph analyses, flexible data representation, and real-time access.
 
-[View Project 3]()
+[View Project 3](https://github.com/danielwang730/MIDS-DATASCI-205-Data-Engineering/tree/main/MIDS%20205%20Project%203%20Using%20Graph%20Algorithms%20to%20Analyze%20S%26P%20500%20Correlation%20Networks)
